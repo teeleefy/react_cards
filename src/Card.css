@@ -1,0 +1,6 @@
+.Card {
+    position: absolute;
+    top: 35vh;
+    left: 70vw;
+    z-index: 100;
+}

@@ -1,0 +1,20 @@
+.Deck-logo {
+    position: absolute;
+    top: 15vh;
+    left: 30vw;
+    z-index: 2;
+}
+
+.Deck-header{
+    position: absolute;
+    top: 10vh;
+    left: 30vw;
+    z-index: 0;
+}
+
+.Deck-shuffle{
+    position: absolute;
+    top: 25vh;
+    left: 45vw;
+    z-index: 1;
+}
